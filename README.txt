@@ -5,7 +5,7 @@ The principal idea was introduced by Efron.
 (B. Efron. "Bootstrap Methods: Another Look at the Jackknife." Ann. Statist. 7 (1) 1 - 26, January, 1979. https://doi.org/10.1214/aos/1176344552)
 
 Here we provide python command line tools that implement the sampling of a CrystFEL streamfile for the purpose of error estimation in crystallographic data
-as described in "Discerning best practices in XFEL-based biological crystallography – standards for nonstandard experiments",Gorel, A., Schlichting, I. & Barends, T. R. M. (2021). IUCrJ 8, 532-543.
+as described in "Discerning best practices in XFEL-based biological crystallography – standards for nonstandard experiments",Gorel, A., Schlichting, I. & Barends, T. R. M. (2021). IUCrJ 8, 532-543. https://doi.org/10.1107/S205225252100467X
 
 
 ################################### Installation
